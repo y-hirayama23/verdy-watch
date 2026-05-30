@@ -1,0 +1,55 @@
+name: Verdy Watch
+
+# 設計: 1本の長時間ジョブが内部で60秒ループ → 終了時に自分自身を再dispatch。
+# concurrency により同時に走るのは常に1本だけ（singleton）。
+# schedule は「チェーンが何らかの理由で切れた時」の自己修復用セーフティネット。
+
+on:
+  workflow_dispatch: # 手動起動 + チェーンの自己再起動
+  schedule:
+    - cron: '*/30 * * * *' # セーフティネット（通常はconcurrencyで即pendingになり待機）
+
+permissions:
+  contents: write # state.json のコミット
+  actions: write # 自分自身の再dispatch
+
+# 同時実行は1本に制限。実行中があれば新規はpendingで待機し、
+# 完了後に起動する → チェーンが途切れず、二重ループも起きない。
+concurrency:
+  group: verdy-watch-singleton
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355 # 6時間ハードリミット(360)の手前で安全に終了
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # rebase用に全履歴
+          persist-credentials: true # state.json push用
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Run monitor loop
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          NTFY_URL: ${{ secrets.NTFY_URL }} # 任意
+          POLL_INTERVAL_SEC: '60'
+          MAX_RUNTIME_SEC: '20700' # 5h45m
+          DEDUP_TTL_HOURS: '12'
+          PER_SOURCE_DELAY_MS: '1500' # ソース間の待機（礼儀）
+          KEYWORDS: '' # 例: "Girls Don't Cry,Wasted Youth" で全店横断の絞り込み
+          PERSIST_GIT: 'true'
+        run: npm start
+
+      - name: Re-dispatch self (keep the chain alive)
+        if: always() # クラッシュしても次のリンクを起動 → 自己修復
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run watch.yml --ref ${{ github.ref_name }}
