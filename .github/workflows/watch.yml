@@ -48,7 +48,7 @@ jobs:
         run: npm start
 
       - name: Re-dispatch self (keep the chain alive)
-        if: always() # クラッシュしても次のリンクを起動 → 自己修復
+        if: success() # ループが正常完了した時だけ再起動（失敗ループ防止）
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: gh workflow run watch.yml --ref ${{ github.ref_name }}
