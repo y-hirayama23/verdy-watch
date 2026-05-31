@@ -1,0 +1,35 @@
+name: Test (notify + logic)
+
+# テスト専用。手動起動のみ。本番の監視・state.json・チェーンには一切干渉しない。
+# Actionsタブ → "Test (notify + logic)" → Run workflow で起動。
+
+on:
+  workflow_dispatch:
+
+# 本番(verdy-watch-singleton)とは別グループ。並走しても互いに干渉しない。
+concurrency:
+  group: verdy-watch-test
+  cancel-in-progress: true
+
+permissions:
+  contents: read # 読むだけ。コミットも再起動もしない。
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - run: npm install
+
+      - name: Run tests (notify + logic)
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          NTFY_URL: ${{ secrets.NTFY_URL }}
+          DRY_RUN: 'false' # 実際にDiscordへ送る。ログだけで良いなら 'true'
+        run: npx tsx src/test-notify.ts
