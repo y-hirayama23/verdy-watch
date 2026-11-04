@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T01:03:33.060Z",
+  "updatedAt": "2026-11-04T01:04:33.081Z",
   "sources": {
     "verdy": {
       "items": {
@@ -10,7 +10,7 @@
           "price": "JPY 1,980(USD 12.53)",
           "soldOut": false,
           "firstSeen": "2026-08-15T01:04:23.455Z",
-          "lastSeen": "2026-11-04T01:03:40.509Z"
+          "lastSeen": "2026-11-04T01:04:44.795Z"
         },
         "164443665": {
           "id": "164443665",
@@ -19,7 +19,7 @@
           "price": "JPY 38,500(USD 243.72)",
           "soldOut": true,
           "firstSeen": "2026-10-29T09:47:34.607Z",
-          "lastSeen": "2026-11-04T01:03:40.509Z"
+          "lastSeen": "2026-11-04T01:04:44.795Z"
         }
       },
       "notified": {}
@@ -474,7 +474,7 @@
           "url": "https://www.niceness.jp/en/products/kirkland-26ss",
           "soldOut": false,
           "firstSeen": "2026-07-06T15:25:42.348Z",
-          "lastSeen": "2026-11-04T01:04:08.642Z"
+          "lastSeen": "2026-11-04T01:07:17.934Z"
         },
         "jordan-26ss": {
           "id": "jordan-26ss",
@@ -482,7 +482,7 @@
           "url": "https://www.niceness.jp/en/products/jordan-26ss",
           "soldOut": false,
           "firstSeen": "2026-07-06T15:25:42.348Z",
-          "lastSeen": "2026-11-04T01:04:08.642Z"
+          "lastSeen": "2026-11-04T01:07:17.934Z"
         },
         "method-26ss": {
           "id": "method-26ss",
@@ -490,7 +490,7 @@
           "url": "https://www.niceness.jp/en/products/method-26ss",
           "soldOut": false,
           "firstSeen": "2026-07-06T15:25:42.348Z",
-          "lastSeen": "2026-11-04T01:04:08.642Z"
+          "lastSeen": "2026-11-04T01:07:17.934Z"
         },
         "loess-26ss": {
           "id": "loess-26ss",
@@ -498,7 +498,7 @@
           "url": "https://www.niceness.jp/en/products/loess-26ss",
           "soldOut": false,
           "firstSeen": "2026-07-06T15:25:42.348Z",
-          "lastSeen": "2026-11-04T01:04:08.642Z"
+          "lastSeen": "2026-11-04T01:07:17.934Z"
         },
         "molina-26ss": {
           "id": "molina-26ss",
@@ -506,7 +506,7 @@
           "url": "https://www.niceness.jp/en/products/molina-26ss",
           "soldOut": false,
           "firstSeen": "2026-07-06T15:25:42.348Z",
-          "lastSeen": "2026-11-04T01:04:08.642Z"
+          "lastSeen": "2026-11-04T01:07:17.934Z"
         },
         "coogan-26ss": {
           "id": "coogan-26ss",
@@ -514,7 +514,7 @@
           "url": "https://www.niceness.jp/en/products/coogan-26ss",
           "soldOut": false,
           "firstSeen": "2026-07-06T15:25:42.348Z",
-          "lastSeen": "2026-11-04T01:04:08.642Z"
+          "lastSeen": "2026-11-04T01:07:17.934Z"
         },
         "i-joshua-26ss": {
           "id": "i-joshua-26ss",
@@ -522,7 +522,7 @@
           "url": "https://www.niceness.jp/en/products/i-joshua-26ss",
           "soldOut": false,
           "firstSeen": "2026-07-06T15:25:42.348Z",
-          "lastSeen": "2026-11-04T01:04:08.642Z"
+          "lastSeen": "2026-11-04T01:07:17.934Z"
         },
         "c-joshua-26ss": {
           "id": "c-joshua-26ss",
@@ -530,7 +530,7 @@
           "url": "https://www.niceness.jp/en/products/c-joshua-26ss",
           "soldOut": false,
           "firstSeen": "2026-07-06T15:25:42.348Z",
-          "lastSeen": "2026-11-04T01:04:08.642Z"
+          "lastSeen": "2026-11-04T01:07:17.934Z"
         }
       },
       "notified": {}
