@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T10:12:51.524Z",
+  "updatedAt": "2026-11-19T10:13:51.571Z",
   "sources": {
     "verdy": {
       "items": {
@@ -10,7 +10,7 @@
           "price": "JPY 1,980(USD 12.39)",
           "soldOut": false,
           "firstSeen": "2026-08-15T01:04:23.455Z",
-          "lastSeen": "2026-11-19T10:12:52.991Z"
+          "lastSeen": "2026-11-19T10:13:52.896Z"
         },
         "164443665": {
           "id": "164443665",
@@ -19,7 +19,7 @@
           "price": "JPY 38,500(USD 241.00)",
           "soldOut": true,
           "firstSeen": "2026-10-29T09:47:34.607Z",
-          "lastSeen": "2026-11-19T10:12:52.991Z"
+          "lastSeen": "2026-11-19T10:13:52.896Z"
         }
       },
       "notified": {}
@@ -33,7 +33,7 @@
           "price": "¥30,800",
           "soldOut": false,
           "firstSeen": "2026-11-12T09:00:57.109Z",
-          "lastSeen": "2026-11-19T10:12:55.187Z"
+          "lastSeen": "2026-11-19T10:13:55.257Z"
         },
         "95308257": {
           "id": "95308257",
@@ -42,7 +42,7 @@
           "price": "¥38,500",
           "soldOut": false,
           "firstSeen": "2026-11-12T09:00:57.109Z",
-          "lastSeen": "2026-11-19T10:12:55.187Z"
+          "lastSeen": "2026-11-19T10:13:55.257Z"
         },
         "95308264": {
           "id": "95308264",
@@ -51,7 +51,7 @@
           "price": "¥38,500",
           "soldOut": false,
           "firstSeen": "2026-11-12T09:00:57.109Z",
-          "lastSeen": "2026-11-19T10:12:55.187Z"
+          "lastSeen": "2026-11-19T10:13:55.257Z"
         },
         "95924210": {
           "id": "95924210",
@@ -60,7 +60,16 @@
           "price": "¥35,200",
           "soldOut": false,
           "firstSeen": "2026-11-19T10:12:55.187Z",
-          "lastSeen": "2026-11-19T10:12:55.187Z"
+          "lastSeen": "2026-11-19T10:13:55.257Z"
+        },
+        "101895131": {
+          "id": "101895131",
+          "name": "everyone classic silk scarf (NAVY) ¥37,400 everyone classic silk scarf (NAVY) ・Ln Lauthによるグラフィックデザイン ・三つ巻き縫い ・100%シルク製ネームタグ ・日本製 ・GRAPHIC DESIGN BY Ln Lauth ・THREE FOLD SEAM ・100% SILK NAME TAG ・MADE ",
+          "url": "https://www.everyonetokyo.com/items/101895131",
+          "price": "¥37,400",
+          "soldOut": false,
+          "firstSeen": "2026-11-19T10:13:55.257Z",
+          "lastSeen": "2026-11-19T10:13:55.257Z"
         },
         "125148015": {
           "id": "125148015",
@@ -69,7 +78,7 @@
           "price": "¥30,800",
           "soldOut": false,
           "firstSeen": "2026-11-12T11:05:40.249Z",
-          "lastSeen": "2026-11-19T10:12:55.187Z"
+          "lastSeen": "2026-11-19T10:13:55.257Z"
         },
         "125583485": {
           "id": "125583485",
@@ -78,7 +87,7 @@
           "price": "¥48,400",
           "soldOut": false,
           "firstSeen": "2026-11-12T09:00:57.109Z",
-          "lastSeen": "2026-11-19T10:12:55.187Z"
+          "lastSeen": "2026-11-19T10:13:55.257Z"
         },
         "125583630": {
           "id": "125583630",
@@ -87,7 +96,7 @@
           "price": "¥48,400",
           "soldOut": false,
           "firstSeen": "2026-11-12T09:01:57.552Z",
-          "lastSeen": "2026-11-19T10:12:55.187Z"
+          "lastSeen": "2026-11-19T10:13:55.257Z"
         },
         "125583664": {
           "id": "125583664",
@@ -96,7 +105,7 @@
           "price": "¥48,400",
           "soldOut": false,
           "firstSeen": "2026-11-12T13:47:45.658Z",
-          "lastSeen": "2026-11-19T10:12:55.187Z"
+          "lastSeen": "2026-11-19T10:13:55.257Z"
         },
         "125583718": {
           "id": "125583718",
@@ -105,7 +114,7 @@
           "price": "¥48,400",
           "soldOut": false,
           "firstSeen": "2026-11-12T11:05:40.249Z",
-          "lastSeen": "2026-11-19T10:12:55.187Z"
+          "lastSeen": "2026-11-19T10:13:55.257Z"
         },
         "156691624": {
           "id": "156691624",
@@ -114,7 +123,7 @@
           "price": "¥35,200",
           "soldOut": false,
           "firstSeen": "2026-11-19T10:12:55.187Z",
-          "lastSeen": "2026-11-19T10:12:55.187Z"
+          "lastSeen": "2026-11-19T10:13:55.257Z"
         },
         "156691959": {
           "id": "156691959",
@@ -123,7 +132,7 @@
           "price": "¥51,700",
           "soldOut": false,
           "firstSeen": "2026-11-19T10:12:55.187Z",
-          "lastSeen": "2026-11-19T10:12:55.187Z"
+          "lastSeen": "2026-11-19T10:13:55.257Z"
         },
         "157967320": {
           "id": "157967320",
@@ -132,7 +141,7 @@
           "price": "¥51,700",
           "soldOut": false,
           "firstSeen": "2026-11-19T10:12:55.187Z",
-          "lastSeen": "2026-11-19T10:12:55.187Z"
+          "lastSeen": "2026-11-19T10:13:55.257Z"
         },
         "158145350": {
           "id": "158145350",
@@ -141,7 +150,7 @@
           "price": "¥18,700",
           "soldOut": false,
           "firstSeen": "2026-11-19T10:09:54.334Z",
-          "lastSeen": "2026-11-19T10:12:55.187Z"
+          "lastSeen": "2026-11-19T10:13:55.257Z"
         },
         "160625453": {
           "id": "160625453",
@@ -150,16 +159,7 @@
           "price": "¥18,700",
           "soldOut": false,
           "firstSeen": "2026-11-19T10:09:54.334Z",
-          "lastSeen": "2026-11-19T10:12:55.187Z"
-        },
-        "160625477": {
-          "id": "160625477",
-          "name": "everyone luxury cotton long sleeve tee shirt (BLACK) ¥18,700 everyone luxury cotton long sleeve tee shirt (BLACK) ・滑らかなコットン生地 ・リラックス ボックス シルエット ・日本製 ・ORIGINAL SMOOTH COTTON FABRIC ・RELAXED BOX FIT ・MA",
-          "url": "https://www.everyonetokyo.com/items/160625477",
-          "price": "¥18,700",
-          "soldOut": false,
-          "firstSeen": "2026-11-19T10:09:54.334Z",
-          "lastSeen": "2026-11-19T10:12:55.187Z"
+          "lastSeen": "2026-11-19T10:13:55.257Z"
         },
         "161479859": {
           "id": "161479859",
@@ -168,7 +168,7 @@
           "price": "¥33,000",
           "soldOut": false,
           "firstSeen": "2026-11-12T09:00:57.109Z",
-          "lastSeen": "2026-11-19T10:12:55.187Z"
+          "lastSeen": "2026-11-19T10:13:55.257Z"
         },
         "161480127": {
           "id": "161480127",
@@ -177,7 +177,7 @@
           "price": "¥23,100",
           "soldOut": false,
           "firstSeen": "2026-11-12T09:00:57.109Z",
-          "lastSeen": "2026-11-19T10:12:55.187Z"
+          "lastSeen": "2026-11-19T10:13:55.257Z"
         },
         "161480153": {
           "id": "161480153",
@@ -186,7 +186,7 @@
           "price": "¥23,100",
           "soldOut": false,
           "firstSeen": "2026-11-12T09:00:57.109Z",
-          "lastSeen": "2026-11-19T10:12:55.187Z"
+          "lastSeen": "2026-11-19T10:13:55.257Z"
         },
         "165518067": {
           "id": "165518067",
@@ -195,7 +195,7 @@
           "price": "¥48,400",
           "soldOut": false,
           "firstSeen": "2026-11-12T09:00:57.109Z",
-          "lastSeen": "2026-11-19T10:12:55.187Z"
+          "lastSeen": "2026-11-19T10:13:55.257Z"
         },
         "165518248": {
           "id": "165518248",
@@ -204,7 +204,7 @@
           "price": "¥38,500",
           "soldOut": false,
           "firstSeen": "2026-11-12T09:00:57.109Z",
-          "lastSeen": "2026-11-19T10:12:55.187Z"
+          "lastSeen": "2026-11-19T10:13:55.257Z"
         },
         "165518284": {
           "id": "165518284",
@@ -213,7 +213,7 @@
           "price": "¥38,500",
           "soldOut": false,
           "firstSeen": "2026-11-12T09:00:57.109Z",
-          "lastSeen": "2026-11-19T10:12:55.187Z"
+          "lastSeen": "2026-11-19T10:13:55.257Z"
         },
         "165518403": {
           "id": "165518403",
@@ -222,7 +222,7 @@
           "price": "¥30,800",
           "soldOut": false,
           "firstSeen": "2026-11-12T09:00:57.109Z",
-          "lastSeen": "2026-11-19T10:12:55.187Z"
+          "lastSeen": "2026-11-19T10:13:55.257Z"
         },
         "165519382": {
           "id": "165519382",
@@ -231,7 +231,7 @@
           "price": "¥30,800",
           "soldOut": false,
           "firstSeen": "2026-11-12T13:47:45.658Z",
-          "lastSeen": "2026-11-19T10:12:55.187Z"
+          "lastSeen": "2026-11-19T10:13:55.257Z"
         },
         "165519460": {
           "id": "165519460",
@@ -240,7 +240,7 @@
           "price": "¥30,800",
           "soldOut": false,
           "firstSeen": "2026-11-12T09:01:57.552Z",
-          "lastSeen": "2026-11-19T10:12:55.187Z"
+          "lastSeen": "2026-11-19T10:13:55.257Z"
         }
       },
       "notified": {
@@ -268,7 +268,7 @@
           "price": "JPY 33,000(USD 206.57)",
           "soldOut": false,
           "firstSeen": "2026-09-21T02:14:25.014Z",
-          "lastSeen": "2026-11-19T10:12:58.512Z"
+          "lastSeen": "2026-11-19T10:13:57.638Z"
         },
         "158644885": {
           "id": "158644885",
@@ -277,7 +277,7 @@
           "price": "JPY 33,000(USD 206.57)",
           "soldOut": false,
           "firstSeen": "2026-09-21T02:15:26.154Z",
-          "lastSeen": "2026-11-19T10:12:58.512Z"
+          "lastSeen": "2026-11-19T10:13:57.638Z"
         },
         "158644913": {
           "id": "158644913",
@@ -286,7 +286,7 @@
           "price": "JPY 33,000(USD 206.57)",
           "soldOut": false,
           "firstSeen": "2026-09-21T02:15:26.154Z",
-          "lastSeen": "2026-11-19T10:12:58.512Z"
+          "lastSeen": "2026-11-19T10:13:57.638Z"
         },
         "158644938": {
           "id": "158644938",
@@ -295,7 +295,7 @@
           "price": "JPY 33,000(USD 206.57)",
           "soldOut": false,
           "firstSeen": "2026-09-21T02:16:24.222Z",
-          "lastSeen": "2026-11-19T10:12:58.512Z"
+          "lastSeen": "2026-11-19T10:13:57.638Z"
         },
         "158645149": {
           "id": "158645149",
@@ -304,7 +304,7 @@
           "price": "JPY 33,000(USD 206.57)",
           "soldOut": false,
           "firstSeen": "2026-09-21T02:18:25.224Z",
-          "lastSeen": "2026-11-19T10:12:58.512Z"
+          "lastSeen": "2026-11-19T10:13:57.638Z"
         },
         "158645186": {
           "id": "158645186",
@@ -313,7 +313,7 @@
           "price": "JPY 33,000(USD 206.57)",
           "soldOut": false,
           "firstSeen": "2026-09-21T02:18:25.224Z",
-          "lastSeen": "2026-11-19T10:12:58.512Z"
+          "lastSeen": "2026-11-19T10:13:57.638Z"
         },
         "158645265": {
           "id": "158645265",
@@ -322,7 +322,7 @@
           "price": "JPY 33,000(USD 206.57)",
           "soldOut": false,
           "firstSeen": "2026-09-21T02:19:24.617Z",
-          "lastSeen": "2026-11-19T10:12:58.512Z"
+          "lastSeen": "2026-11-19T10:13:57.638Z"
         },
         "158645642": {
           "id": "158645642",
@@ -331,7 +331,7 @@
           "price": "JPY 33,000(USD 206.57)",
           "soldOut": false,
           "firstSeen": "2026-09-21T02:22:24.145Z",
-          "lastSeen": "2026-11-19T10:12:58.512Z"
+          "lastSeen": "2026-11-19T10:13:57.638Z"
         },
         "158645686": {
           "id": "158645686",
@@ -340,7 +340,7 @@
           "price": "JPY 33,000(USD 206.57)",
           "soldOut": false,
           "firstSeen": "2026-09-21T02:22:24.145Z",
-          "lastSeen": "2026-11-19T10:12:58.512Z"
+          "lastSeen": "2026-11-19T10:13:57.638Z"
         },
         "158645780": {
           "id": "158645780",
@@ -349,7 +349,7 @@
           "price": "JPY 33,000(USD 206.57)",
           "soldOut": false,
           "firstSeen": "2026-09-21T02:22:24.145Z",
-          "lastSeen": "2026-11-19T10:12:58.512Z"
+          "lastSeen": "2026-11-19T10:13:57.638Z"
         },
         "159014585": {
           "id": "159014585",
@@ -358,7 +358,7 @@
           "price": "JPY 16,500(USD 103.29)",
           "soldOut": true,
           "firstSeen": "2026-09-23T03:47:40.539Z",
-          "lastSeen": "2026-11-19T10:12:58.512Z"
+          "lastSeen": "2026-11-19T10:13:57.638Z"
         },
         "159014606": {
           "id": "159014606",
@@ -367,7 +367,7 @@
           "price": "JPY 16,500(USD 103.29)",
           "soldOut": false,
           "firstSeen": "2026-09-23T03:48:40.409Z",
-          "lastSeen": "2026-11-19T10:12:58.512Z"
+          "lastSeen": "2026-11-19T10:13:57.638Z"
         },
         "159014623": {
           "id": "159014623",
@@ -376,7 +376,7 @@
           "price": "JPY 16,500(USD 103.29)",
           "soldOut": false,
           "firstSeen": "2026-09-23T03:48:40.409Z",
-          "lastSeen": "2026-11-19T10:12:58.512Z"
+          "lastSeen": "2026-11-19T10:13:57.638Z"
         },
         "159014677": {
           "id": "159014677",
@@ -385,7 +385,7 @@
           "price": "JPY 16,500(USD 103.29)",
           "soldOut": false,
           "firstSeen": "2026-09-23T03:48:40.409Z",
-          "lastSeen": "2026-11-19T10:12:58.512Z"
+          "lastSeen": "2026-11-19T10:13:57.638Z"
         },
         "159218415": {
           "id": "159218415",
@@ -394,7 +394,7 @@
           "price": "JPY 12,100(USD 75.74)",
           "soldOut": false,
           "firstSeen": "2026-09-24T09:30:18.727Z",
-          "lastSeen": "2026-11-19T10:12:58.512Z"
+          "lastSeen": "2026-11-19T10:13:57.638Z"
         },
         "159218458": {
           "id": "159218458",
@@ -403,7 +403,7 @@
           "price": "JPY 12,100(USD 75.74)",
           "soldOut": false,
           "firstSeen": "2026-09-24T09:31:19.145Z",
-          "lastSeen": "2026-11-19T10:12:58.512Z"
+          "lastSeen": "2026-11-19T10:13:57.638Z"
         },
         "159218481": {
           "id": "159218481",
@@ -412,7 +412,7 @@
           "price": "JPY 12,100(USD 75.74)",
           "soldOut": false,
           "firstSeen": "2026-09-24T09:32:19.373Z",
-          "lastSeen": "2026-11-19T10:12:58.512Z"
+          "lastSeen": "2026-11-19T10:13:57.638Z"
         },
         "159218520": {
           "id": "159218520",
@@ -421,7 +421,7 @@
           "price": "JPY 12,100(USD 75.74)",
           "soldOut": false,
           "firstSeen": "2026-09-24T09:32:19.373Z",
-          "lastSeen": "2026-11-19T10:12:58.512Z"
+          "lastSeen": "2026-11-19T10:13:57.638Z"
         },
         "164441452": {
           "id": "164441452",
@@ -430,7 +430,7 @@
           "price": "JPY 13,200(USD 82.63)",
           "soldOut": false,
           "firstSeen": "2026-10-31T08:47:27.797Z",
-          "lastSeen": "2026-11-19T10:12:58.512Z"
+          "lastSeen": "2026-11-19T10:13:57.638Z"
         },
         "164441782": {
           "id": "164441782",
@@ -439,7 +439,7 @@
           "price": "JPY 13,200(USD 82.63)",
           "soldOut": false,
           "firstSeen": "2026-10-31T08:47:27.797Z",
-          "lastSeen": "2026-11-19T10:12:58.512Z"
+          "lastSeen": "2026-11-19T10:13:57.638Z"
         },
         "164441962": {
           "id": "164441962",
@@ -448,7 +448,7 @@
           "price": "JPY 13,200(USD 82.63)",
           "soldOut": false,
           "firstSeen": "2026-10-31T08:47:27.797Z",
-          "lastSeen": "2026-11-19T10:12:58.512Z"
+          "lastSeen": "2026-11-19T10:13:57.638Z"
         },
         "164442000": {
           "id": "164442000",
@@ -457,7 +457,7 @@
           "price": "JPY 13,200(USD 82.63)",
           "soldOut": false,
           "firstSeen": "2026-10-31T08:47:27.797Z",
-          "lastSeen": "2026-11-19T10:12:58.512Z"
+          "lastSeen": "2026-11-19T10:13:57.638Z"
         },
         "164643220": {
           "id": "164643220",
@@ -466,7 +466,7 @@
           "price": "JPY 13,200(USD 82.63)",
           "soldOut": false,
           "firstSeen": "2026-10-31T08:47:27.797Z",
-          "lastSeen": "2026-11-19T10:12:58.512Z"
+          "lastSeen": "2026-11-19T10:13:57.638Z"
         },
         "164643369": {
           "id": "164643369",
@@ -475,7 +475,7 @@
           "price": "JPY 13,200(USD 82.63)",
           "soldOut": false,
           "firstSeen": "2026-10-31T08:47:27.797Z",
-          "lastSeen": "2026-11-19T10:12:58.512Z"
+          "lastSeen": "2026-11-19T10:13:57.638Z"
         }
       },
       "notified": {}
@@ -488,7 +488,7 @@
           "url": "https://www.niceness.jp/en/products/kirkland-26ss",
           "soldOut": false,
           "firstSeen": "2026-07-06T15:25:42.348Z",
-          "lastSeen": "2026-11-19T10:13:00.405Z"
+          "lastSeen": "2026-11-19T10:13:59.710Z"
         },
         "jordan-26ss": {
           "id": "jordan-26ss",
@@ -496,7 +496,7 @@
           "url": "https://www.niceness.jp/en/products/jordan-26ss",
           "soldOut": false,
           "firstSeen": "2026-07-06T15:25:42.348Z",
-          "lastSeen": "2026-11-19T10:13:00.405Z"
+          "lastSeen": "2026-11-19T10:13:59.710Z"
         },
         "method-26ss": {
           "id": "method-26ss",
@@ -504,7 +504,7 @@
           "url": "https://www.niceness.jp/en/products/method-26ss",
           "soldOut": false,
           "firstSeen": "2026-07-06T15:25:42.348Z",
-          "lastSeen": "2026-11-19T10:13:00.405Z"
+          "lastSeen": "2026-11-19T10:13:59.710Z"
         },
         "loess-26ss": {
           "id": "loess-26ss",
@@ -512,7 +512,7 @@
           "url": "https://www.niceness.jp/en/products/loess-26ss",
           "soldOut": false,
           "firstSeen": "2026-07-06T15:25:42.348Z",
-          "lastSeen": "2026-11-19T10:13:00.405Z"
+          "lastSeen": "2026-11-19T10:13:59.710Z"
         },
         "molina-26ss": {
           "id": "molina-26ss",
@@ -520,7 +520,7 @@
           "url": "https://www.niceness.jp/en/products/molina-26ss",
           "soldOut": false,
           "firstSeen": "2026-07-06T15:25:42.348Z",
-          "lastSeen": "2026-11-19T10:13:00.405Z"
+          "lastSeen": "2026-11-19T10:13:59.710Z"
         },
         "coogan-26ss": {
           "id": "coogan-26ss",
@@ -528,7 +528,7 @@
           "url": "https://www.niceness.jp/en/products/coogan-26ss",
           "soldOut": false,
           "firstSeen": "2026-07-06T15:25:42.348Z",
-          "lastSeen": "2026-11-19T10:13:00.405Z"
+          "lastSeen": "2026-11-19T10:13:59.710Z"
         },
         "i-joshua-26ss": {
           "id": "i-joshua-26ss",
@@ -536,7 +536,7 @@
           "url": "https://www.niceness.jp/en/products/i-joshua-26ss",
           "soldOut": false,
           "firstSeen": "2026-07-06T15:25:42.348Z",
-          "lastSeen": "2026-11-19T10:13:00.405Z"
+          "lastSeen": "2026-11-19T10:13:59.710Z"
         },
         "c-joshua-26ss": {
           "id": "c-joshua-26ss",
@@ -544,7 +544,7 @@
           "url": "https://www.niceness.jp/en/products/c-joshua-26ss",
           "soldOut": false,
           "firstSeen": "2026-07-06T15:25:42.348Z",
-          "lastSeen": "2026-11-19T10:13:00.405Z"
+          "lastSeen": "2026-11-19T10:13:59.710Z"
         }
       },
       "notified": {}
